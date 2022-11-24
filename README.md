@@ -1,5 +1,5 @@
 # HuBMAP-HPA-Hacking-the-Human-Body
-*** Bronze Medal Awarded, Top 6% (69/1175) ***
+*** Bronze Medal Awarded, Top 6% (69/1175) *** https://www.kaggle.com/ddcddmm
 
 References:
 1. HubMap Inference TF TPU EfficientNet B7 640x640 https://www.kaggle.com/code/markwijkhuizen/hubmap-inference-tf-tpu-efficientnet-b7-640x640
